@@ -1,5 +1,5 @@
 {
-  "qor_5A97C3D9_ensure_application_availability" : "Ensure Application Availability Now and later",
+  "qor_5A97C3D9_ensure_application_availability" : "Ensure Application Availability Now and later. You can add changes!",
   "qor_5A97C3G9_recording_license" : "At least one Recording license must be purchased per site to use Call Recording.",
   "qor_5A97C3DE_application_downtime_applications" : "Users expect their mission-critical applications to be online and performant at all times. Application downtime is affected by three main factors:",
   "qor_5A97C3DE_applications_infrastructure" : "Improve the availability of applications affected by overloaded or unavailable infrastructure.",
@@ -7,7 +7,7 @@
   "qor_5A97C3E2_disaster_recovery" : "Manual, error prone disaster recovery and in-house load balancing resulting in downtime or high operational costs",
   "qor_5A97C3E2_origin_servers" : "Origin servers experiencing unplanned downtime due to failure or  misconfiguration",
   "qor_5A97C3E5_dollar_costs_infrastructure_downtime" : "While the dollar costs for downtime may vary by company size or industry, the severity of business impact is growing across all businesses. According to an IDC report in 2015, the average cost of infrastructure downtime is $100k per hour.",
-  "qor_5A97C3E8_1" : "1",
+  "qor_5A97C3E8_1" : 1,
   "qor_5A97C3EB_downtime_outages" : "Internet applications require the scale and resilience of global network infrastructure to combat spikes in traffic and unplanned downtime or outages. Performance and reliability services must incorporate security to stop new and sophisticated attacks, while ensuring fast onboarding and easy-to-configure functionalities that prevent downtime introduced by maintenance, outages, and misconfigurations.",
   "qor_5A97C3EC_global_scale" : "Global Scale",
   "qor_5A97C3EF_globals_site" : "Cloudflare’s global Anycast network consisting of {{globals['site']['DataCenterCount']}} data centers spans across {{globals['site']['CountryCount']}} countries, offers a scalable infrastructure backbone that prevents downtime and unavailability.",
