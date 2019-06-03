@@ -28,6 +28,7 @@
   "qor_5A97C402_attack_mode_ddos_attacks" : "I'm Under Attack Mode mitigated DDoS attacks without any disruption in service",
   "qor_5A97C402_global_load" : "Reductions in latency by 2 - 3 seconds through Global Load Balancing",
   "qor_5A97C402_key_results" : "Key Results",
+  "qor_5A97C402_key_resultsCHANGE" : "Key ResultsCHANGE",
   "qor_5A97C403_case_study" : "Read the Case Study",
   "qor_5A97C403_infrastructure_internationally" : "Affordably scaled internationally while maintaining local infrastructure",
   "qor_5A97C403_service_response_time_service_quality" : "\"Cloudflare maximized service quality and minimized service response time for Crisp. It's a commoditization of expensive network infrastructure for the masses. We can’t live without it.”",
